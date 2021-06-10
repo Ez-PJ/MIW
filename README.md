@@ -6,3 +6,4 @@ PJWSTK : Methods for Knowledge Engineering
 3. [Decission trees](miw_pro3.ipynb)
 4. [Parametric models](miw_pro4.ipynb)
 6. [CNN](miw_pro6.ipynb)
+7. [Prolog Text Game](miw_prolog.pl)
